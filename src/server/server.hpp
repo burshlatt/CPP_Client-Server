@@ -1,5 +1,5 @@
-#ifndef PBF_GROUP_SERVER_SERVER_HPP
-#define PBF_GROUP_SERVER_SERVER_HPP
+#ifndef CLIENT_SERVER_SERVER_SERVER_HPP
+#define CLIENT_SERVER_SERVER_SERVER_HPP
 
 #include <string_view>
 
@@ -16,4 +16,4 @@ private:
     void HandleClient(int client_socket);
 };
 
-#endif // PBF_GROUP_SERVER_SERVER_HPP
+#endif // CLIENT_SERVER_SERVER_SERVER_HPP
