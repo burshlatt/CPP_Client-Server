@@ -1,5 +1,5 @@
-#ifndef PBF_GROUP_CLIENT_CLIENT_HPP
-#define PBF_GROUP_CLIENT_CLIENT_HPP
+#ifndef CLIENT_SERVER_CLIENT_CLIENT_HPP
+#define CLIENT_SERVER_CLIENT_CLIENT_HPP
 
 #include <string>
 
@@ -15,4 +15,4 @@ private:
     std::string GetCurrentTimestamp();
 };
 
-#endif // PBF_GROUP_CLIENT_CLIENT_HPP
+#endif // CLIENT_SERVER_CLIENT_CLIENT_HPP
